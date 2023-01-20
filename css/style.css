@@ -1,0 +1,14 @@
+body{
+    background-color: royalblue;
+}
+
+.title {
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#botong {
+    font-size: 30px;
+    justify-content: center;
+}
